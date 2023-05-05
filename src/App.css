@@ -1,3 +1,6 @@
+select#currency-input option:hover{
+  background-color: #b8a1a1;
+}
 .App {
   text-align: center;
 }
@@ -36,3 +39,4 @@
     transform: rotate(360deg);
   }
 }
+
